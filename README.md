@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Kotlin Multiplatform Mobile, Design Mobile, UX**
 
-- 👨‍💻 All of my projects are available at [https://github.com/alaudiero](https://github.com/alaudiero)
-
 - 📫 How to reach me **https://www.linkedin.com/in/aureliolaudiero/**
 
 <h3 align="left">Connect with me:</h3>
